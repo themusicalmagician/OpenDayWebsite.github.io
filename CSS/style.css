@@ -1,0 +1,10 @@
+body
+{
+    background-image: url("/Assets/background.png");
+    background-size: 100%;
+}
+
+.menu_img
+{
+    float: left;
+}
